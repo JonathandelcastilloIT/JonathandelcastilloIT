@@ -9,7 +9,7 @@
   - [Configuring A Virtual Machine and remote access ](https://github.com/JonathandelcastilloIT/configure-vm)
 
  - <b>Active Directory</b>
-   - [Setting Up Active Directory](https://github.com/JonathandelcastilloIT/Active-Directory)
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JonathandelcastilloIT/Active-Directory)
 
 <h2>🤳Connect with me:</h2>
 
