@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan Del Castillo, an <a href="https://linkedin.com/in/jonathan>IT Professional</a>☺</h1>
+<h1>Hi, I'm Jonathan Del Castillo, an <a href="https://linkedin.com/in/jonathan-del-castillo-a61918332">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
