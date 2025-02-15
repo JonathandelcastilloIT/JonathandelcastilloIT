@@ -10,6 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine and remote access ](https://github.com/JonathandelcastilloIT/configure-vm)
   - [VPN Setup in Virtual Machine ](https://github.com/JonathandelcastilloIT/Setting-UP-A-VPN)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/JonathandelcastilloIT/azure-network-protocols)
+ 
  
  - <b>Active Directory</b>
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JonathandelcastilloIT/Active-Directory)
