@@ -4,10 +4,13 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JonathandelcastilloIT/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/JonathandelcastilloIT/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JonathandelcastilloIT/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine and remote access ](https://github.com/JonathandelcastilloIT/configure-vm)
-
+  - [VPN Setup in Virtual Machine ](https://github.com/JonathandelcastilloIT/Setting-UP-A-VPN)
+ 
  - <b>Active Directory</b>
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JonathandelcastilloIT/Active-Directory)
 
